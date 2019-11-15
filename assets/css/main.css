@@ -2043,7 +2043,7 @@ input, select, textarea {
 		top: 0;
 		width: 375px;
 	} */
-
+/* 
 		#header .top {
 			-moz-flex-grow: 1;
 			-webkit-flex-grow: 1;
@@ -2078,9 +2078,9 @@ input, select, textarea {
 
 				#header .icons a:hover {
 					color: #fff;
-				}
+				} */
 
-	#logo {
+	/* #logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
 		min-height: 48px;
@@ -2108,7 +2108,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
-		}
+		} */
 
 	#nav ul {
 		list-style: none;
